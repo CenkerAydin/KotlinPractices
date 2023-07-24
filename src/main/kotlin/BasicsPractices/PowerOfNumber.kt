@@ -1,4 +1,4 @@
-import kotlin.math.exp
+package BasicsPractices
 
 fun main() {
     //Calculate power of a number without using pow()

@@ -1,3 +1,5 @@
+package BasicsPractices
+
 fun main() {
     //Program to check leap year
     print("Enter the Year: ")

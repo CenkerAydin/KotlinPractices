@@ -1,3 +1,5 @@
+package BasicsPractices
+
 fun main() {
     //Program to reverse a number
     print("Enter the number: ")

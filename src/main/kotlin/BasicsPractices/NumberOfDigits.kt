@@ -1,3 +1,5 @@
+package BasicsPractices
+
 fun main() {
     var count = 0
     println("Enter the number: ")

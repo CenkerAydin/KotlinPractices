@@ -1,3 +1,5 @@
+package FunctionPractices
+
 fun main() {
     var total=0
     print("Kaç ders girmek istiyorsunuz? ")

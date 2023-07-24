@@ -1,3 +1,5 @@
+package BasicsPractices
+
 fun main() {
     //Fibonacci series using for loop
     val n=15

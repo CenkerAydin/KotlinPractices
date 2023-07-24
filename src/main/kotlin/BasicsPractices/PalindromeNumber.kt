@@ -1,3 +1,5 @@
+package BasicsPractices
+
 fun main() {
     //Check Whether a number is palindrome or Not
     var num= readln().toInt()

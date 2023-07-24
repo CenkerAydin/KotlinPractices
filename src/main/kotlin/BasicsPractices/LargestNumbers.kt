@@ -1,3 +1,5 @@
+package BasicsPractices
+
 fun main() {
     //Program to find the largest among three numbers
     print("Enter the num1: ")
