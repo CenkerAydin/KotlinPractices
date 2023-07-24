@@ -1,3 +1,5 @@
+package FunctionPractices
+
 fun main() {
 var select:Int
     val menu = """
@@ -16,12 +18,12 @@ var select:Int
         print("Bir işlem seçiniz: ")
         select= readLine()!!.toInt()
         when (select){
-            1 ->plus()
-            2 ->minus()
-            3->times()
-            4->divided()
-            5->power()
-            6 ->mod()
+            1 -> plus()
+            2 -> minus()
+            3-> times()
+            4-> divided()
+            5-> power()
+            6 -> mod()
             else -> println("yanlış değer girdiniz tekrar deneyin.")
         }
 

@@ -1,3 +1,5 @@
+package BasicsPractices
+
 fun main() {
     //Program Check Whether a number is even or odd
     print("Enter the number: ")

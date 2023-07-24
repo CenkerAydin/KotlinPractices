@@ -1,3 +1,5 @@
+package BasicsPractices
+
 fun main() {
     //Find GCD of two numbers using while loop.
     print("Enter the num1: ")

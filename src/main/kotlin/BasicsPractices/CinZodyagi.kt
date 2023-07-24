@@ -1,3 +1,5 @@
+package BasicsPractices
+
 fun main() {
     print("Enter the year: ")
     var year= readLine()!!.toInt()

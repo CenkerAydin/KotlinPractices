@@ -1,3 +1,5 @@
+package BasicsPractices
+
 fun main() {
     //Find factorial of a number
     print("Enter the number: ")

@@ -1,3 +1,5 @@
+package BasicsPractices
+
 fun main() {
     print("Enter the midTerm exam Note(0-100): ")
     val midterm= readLine()!!.toInt()

@@ -1,4 +1,4 @@
-import java.util.*
+package BasicsPractices
 
 fun main() {
     var userName:String

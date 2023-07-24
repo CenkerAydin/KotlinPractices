@@ -1,3 +1,5 @@
+package FunctionPractices
+
 fun main() {
     print("Enter the number: ")
     val num= readLine()!!.toInt()
@@ -5,5 +7,5 @@ fun main() {
 }
 
 fun fact(number:Int):Long{
-    return number *fact(number-1)
+    return number * fact(number-1)
 }
