@@ -14,7 +14,3 @@ class Stock(var symbol:String, var name:String){
     }
 }
 
-
-class Fan{
-
-}
