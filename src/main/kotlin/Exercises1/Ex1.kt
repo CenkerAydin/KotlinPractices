@@ -47,10 +47,11 @@ fun main() {
     println("Stock symbol: ${stock.symbol},Stock Name: ${stock.name}")
     println("The percantage change is ${stock.getChangePercent(34.5,34.35)}")
 
-    var fan=Fan() //Boş constructor ile nesne oluşturduk.
-    var fan1=Fan( 5.0,"Blue")
+    val fan=Fan() //Boş constructor ile nesne oluşturduk.
+    val fan1=Fan( 5.0,"Blue")
 
     println("Fan: ${fan.SLOW}")
     println("Fan: ${fan.MEDIUM}")
-    println()
+    println("Fan: ${fan1.FAST}")
+    fan.toString(4,false,3.0,"Yellow")
 }
