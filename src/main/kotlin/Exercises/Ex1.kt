@@ -1,4 +1,4 @@
-package Exercises1
+package Exercises
 
 class Stock(var symbol:String, var name:String){
     var previousClosingPrice:Double?=null
